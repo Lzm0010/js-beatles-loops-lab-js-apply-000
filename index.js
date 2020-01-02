@@ -4,7 +4,7 @@
 function theBeatlesPlay(musicians, instruments){
   var facts = [];
   
-  for (i = 0; i < musicians.length; i++) {
+  for(i = 0; i < musicians.length; i++) {
     
   }
 }
