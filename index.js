@@ -30,5 +30,7 @@ function iLoveTheBeatles(number){
   do {
     
   } 
-  while();
+  while(number<15 &&);
+  
+  return beatlesArray;
 }
